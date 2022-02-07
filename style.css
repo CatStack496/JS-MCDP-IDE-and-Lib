@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Yantramanav:wght@300&display=swap');
+
+* {
+    font-family: 'Yantramanav', sans-serif;
+}
+#logo_line {
+  justify-content: left;
+  text-align: left;
+  max-height: 2px;
+  height:2px;
+  border-width:0;
+  background-color: rgb(31, 31, 48);
+  font-size: 0;
+  border: 1px solid rgb(255, 255, 255);
+}
