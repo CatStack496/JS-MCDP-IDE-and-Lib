@@ -4,4 +4,4 @@
  
   This is an ongoing project, and is not ready for production use yet.
   
-  This project uses JavaScript Libraries like JSzip, jQuery, CodeMirror, Popper.js/Bootstrap, etc.
+  This project uses JavaScript Libraries like JSzip, jQuery, Google's Blockly.js, ~~CodeMirror~~, Popper.js/Bootstrap, etc.
