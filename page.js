@@ -6,11 +6,3 @@ $(document).ready(function(){
     opacity:'toggle'
   }, 1200 );
 });
-
-var myCodeMirror = CodeMirror(document.getElementById("IDEcontainer"), {
-  value: "function myScript(){return 100;}\n",
-  mode:  "javascript",
-  lineWrapping: true,
-  lineNumbers: true,
-  theme: "mdn-like"
-});
